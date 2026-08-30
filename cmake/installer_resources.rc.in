@@ -1,0 +1,3 @@
+#include "installer/installer_resources.h"
+
+IDI_INSTALLER_ICON ICON "@INSTALLER_ICON_PATH@"
