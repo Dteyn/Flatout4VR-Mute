@@ -1,7 +1,9 @@
-# FlatOut 4 VR Mute
+> [!NOTE]
+> # DEPRECTED - NO LONGER NECESSARY
+> **As of release 1.0 (Oct 23 2026), FlatOut 4: Total Insanity VR now has built-in mute support for other players.**
+> This repo has been archived as this tool is no longer necessary, but may serve as a reference for other projects.
 
-![Latest release](https://img.shields.io/github/v/release/Dteyn/Flatout4VR-Mute?include_prereleases)
-![Downloads](https://img.shields.io/github/downloads/Dteyn/Flatout4VR-Mute/total)
+## FlatOut 4 VR Mute
 
 Adds voice-chat mute controls to [FlatOut 4: Total Insanity VR](https://store.steampowered.com/app/3844750/FlatOut_4_Total_Insanity_VR/) by repurposing the multiplayer Show Profile button and changing it to a Mute/Unmute button.
 
